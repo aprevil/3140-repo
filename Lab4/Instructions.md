@@ -34,7 +34,7 @@
 **git**: version control software. commands are the same as on git bash
 >Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do\
 
-Programs | <!----> | <!---->
+
 --------- | --------- | ----------
 curl	|	wget	|	subversion
 awk	|	    java	|	git
