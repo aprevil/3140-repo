@@ -20,7 +20,7 @@
 
 ### Common linux commands:
 * **ls**: list files in a directory\
-&nbsp;&nbsp;&nbsp;&nbsp; ls -a to list hidden files as well\
+&nbsp;&nbsp;&nbsp;&nbsp; ls -a to list hidden files as well
 * **mkdir** to create a new directory
 * **touch** "file name" to create a new file
 * **cd** "directory name" to change to a directory cd .. to go back to the parent directory
@@ -30,9 +30,9 @@
 
 ### Programs
 **vim**: text editor\
-**nano**: text editor which is a clone of pico and is a more user friendly\
+**nano**: text editor which is a clone of pico and is a more user friendly option\
 **git**: version control software. commands are the same as on git bash
->Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do\
+>Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do
 
 Programs | <!----> | <!---->
 --------- | --------- | ----------
