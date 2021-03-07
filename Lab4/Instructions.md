@@ -34,15 +34,15 @@
 **git**: version control software. commands are the same as on git bash
 >Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do\
 
-List 1 | List 2 | List 3
+Programs
 --------- | --------- | ----------
-curl\	|	wget\	|	subversion\
-awk\	|	    java\	|	git\
-guile\	|	gimp\	|	inkscape\
-ffmpeg\	|	vim\	|	    nano\
-emacs\	|	mysql\	|	sqlite\
-gzip\	|	zip\	|	    make\
-head\ 	|	tail\	|	libreoffice\
+curl	|	wget	|	subversion
+awk	|	    java	|	git
+guile	|	gimp	|	inkscape
+ffmpeg	|	vim	|	    nano
+emacs	|	mysql	|	sqlite
+gzip	|	zip	|	    make
+head 	|	tail	|	libreoffice
 convert |
 
 ## Part 3: using a text editor
