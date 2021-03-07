@@ -17,14 +17,16 @@
 
 ## Part 2: linux programs
 ### Some common programs/commands you might use while on the linux server
->common linux commands:
-* ls: list files in a directory\
+
+### Common linux commands:
+* **ls**: list files in a directory\
 &nbsp;&nbsp;&nbsp;&nbsp; ls -a to list hidden files as well\
-* mkdir to create a new directory
-* touch "file name" to create a new file
-* cd "directory name" to change to a directory cd .. to go back to the parent directory
-* mv to move or rename a file. the format is "mv sourcefile renametofile" or "mv sourcefile filedirectory. NOTE: in the school linux terminal you must specify the path of the target directory with ~ first ex: ~/3140
-* rm "file name" to delete a directory or file name
+* **mkdir** to create a new directory
+* **touch** "file name" to create a new file
+* **cd** "directory name" to change to a directory cd .. to go back to the parent directory
+* **mv** to move or rename a file. the format is "mv sourcefile renametofile" or "mv sourcefile filedirectory. 
+NOTE: in the school linux terminal you must specify the path of the target directory with ~ first ex: ~/3140
+* **rm/rmdir** "file name" to delete a file or directory, respectively. If the directory is not empty then use rm -rf to delete it. (-r(recursively) -f(without warning prompts))
 
 ### Programs
 **vim**: text editor\
