@@ -2,7 +2,8 @@
 ## Part 1: Connecting to the linux server
 
 &nbsp;&nbsp;1) Open SSH Secure Shell Client
-&nbsp;&nbsp;2) On the bottom-most task bar, click on ![Profiles](./pictures/profiles.png), Add Profile,and give it a name. I will name it BClinux for this example.
+&nbsp;&nbsp;2) On the bottom-most task bar, click on Profiles <!--![Profiles](./pictures/profiles.png)-->, Add Profile,and give it a name. I will name it BClinux for this example.
+(./pictures/profiles.png)
 &nbsp;&nbsp;3)Click on Profiles once again and this time click ![edit profiles](./pictures/edit.png),
 &nbsp;&nbsp;4)Once the menu pops up, make sure your ![desired profile](./pictures/profilelist.png) is highlighted on the left
 &nbsp;&nbsp;5)On the right, click the Connection tab at the top and you should see [three fields](./pictures/fields.png) for the host name, user name, and port number. Enter an IP address listed [here](http://www.sci.brooklyn.cuny.edu/~ziegler/CISC3115/SSH/LINUX_RemoteAccess.pdf) and your linux server login and choose port number 22. then click Ok at the bottom
