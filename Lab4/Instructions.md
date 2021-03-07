@@ -1,19 +1,19 @@
 # Instructions to log onto linux server and how to use some programs
 ## Part 1: Connecting to the linux server
 
-&nbsp;&nbsp;1) Open SSH Secure Shell Client
-&nbsp;&nbsp;2) On the bottom-most task bar, click on [Profiles](./pictures/profiles.png), Add Profile,and give it a name. I will name it BClinux for this example.
->3)Click on Profiles once again and this time click ![edit profiles](./pictures/edit.png),
->4)Once the menu pops up, make sure your ![desired profile](./pictures/profilelist.png) is highlighted on the left
->5)On the right, click the Connection tab at the top and you should see [three fields](./pictures/fields.png) for the host name, user name, and port number. Enter an IP address listed [here](http://www.sci.brooklyn.cuny.edu/~ziegler/CISC3115/SSH/LINUX_RemoteAccess.pdf) and your linux server login and choose port number 22. then click Ok at the bottom
->6)Now, go to the profiles button again on the bottom tab and choose your profile. You should be given a prompt that you've connected to the Brooklyn college linux server and another prompt to enter your password to your linux account.
->7)You are now connected to the linux server and only need to repeat step 6 to log on in the future!
+&nbsp;&nbsp;&nbsp;&nbsp;1) Open SSH Secure Shell Client\
+&nbsp;&nbsp;&nbsp;&nbsp;2) On the bottom-most task bar, click on [Profiles](./pictures/profiles.png), Add Profile,and give it a name. I will name it BClinux for this example.\
+&nbsp;&nbsp;&nbsp;&nbsp;3)Click on Profiles once again and this time click [edit profiles](./pictures/edit.png)\
+&nbsp;&nbsp;&nbsp;&nbsp;4)Once the menu pops up, make sure your [desired profile](./pictures/profilelist.png) is highlighted on the left\
+&nbsp;&nbsp;&nbsp;&nbsp;5)On the right, click the Connection tab at the top and you should see [three fields](./pictures/fields.png) for the host name, user name, and port number. Enter an IP address listed [here](http://www.sci.brooklyn.cuny.edu/~ziegler/CISC3115/SSH/LINUX_RemoteAccess.pdf) and your linux server login and choose port number 22. then click Ok at the bottom\
+&nbsp;&nbsp;&nbsp;&nbsp;6)Now, go to the profiles button again on the bottom tab and choose your profile. You should be given a prompt that you've connected to the Brooklyn college linux server and another prompt to enter your password to your linux account.\
+&nbsp;&nbsp;&nbsp;&nbsp;7)You are now connected to the linux server and only need to repeat step 6 to log on in the future!
 
 ## Part 2: linux programs
 ### Some common programs you might use while on the linux server
 >common linux commands:
 >>ls: list files in a directory
->>>ls -a to list hidden files as well
+>>>ls -a to list hidden files as well\
 >>mkdir to create a new directory
 >>touch "file name" to create a new file
 >>cd "directory name" to change to a directory cd .. to go back to the parent directory
