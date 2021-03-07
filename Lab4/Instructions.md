@@ -25,15 +25,17 @@
 * **touch** "file name" to create a new file
 * **cd** "directory name" to change to a directory cd .. to go back to the parent directory
 * **mv** to move or rename a file. the format is "mv sourcefile renametofile" or "mv sourcefile filedirectory. 
-NOTE: in the school linux terminal you must specify the path of the target directory with ~ first ex: ~/3140
+**NOTE**: in the school linux terminal you must specify the path of the target directory with ~ first ex: ~/3140
 * **rm/rmdir** "file name" to delete a file or directory, respectively. If the directory is not empty then use rm -rf to delete it. (-r(recursively) -f(without warning prompts))
 
 ### Programs
 **vim**: text editor\
 **nano**: text editor which is a clone of pico and is a more user friendly\
 **git**: version control software. commands are the same as on git bash
->Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do
+>Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do\
 
+List 1 | List 2 | List 3
+--------- | --------- | ----------
 curl\	|	wget\	|	subversion\
 awk\	|	    java\	|	git\
 guile\	|	gimp\	|	inkscape\
