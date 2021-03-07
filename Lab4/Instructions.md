@@ -54,7 +54,7 @@ I will be using nano for this quick demonstration of how to use a text editor.\
 
 &nbsp;&nbsp;&nbsp;&nbsp;3)To save and exit, press CTRL + X and then choose either Y or N to save your changes
 
-&nbsp;&nbsp;&nbsp;&nbsp;4)If you press Y, you will see the [file name to write](./pictures/save.png) option. Here you can type type in the name of your file and the extension if you did not do so previously, or edit what you had previously then press enter to save. Your file is now [visible](./pictures/sampleList.png) if you use the command ls and you can edit it once again with the command nano and the file name
+&nbsp;&nbsp;&nbsp;&nbsp;4)If you press Y, you will see the [file name to write](./pictures/save.png) option. Here you can type in the name of your file and the extension if you did not do so previously, or edit what you had previously then press enter to save. Your file is now [visible](./pictures/sampleList.png) if you use the command ls and you can edit it once again with the command nano and the file name
 
 ### Creating and running code
 Java will be used in this example.
