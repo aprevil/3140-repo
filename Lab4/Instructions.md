@@ -31,14 +31,15 @@
 **nano**: text editor which is a clone of pico and is a more user friendly\
 **git**: version control software. commands are the same as on git bash
 >Type the name of a program to open it. You can also use the "whatis <filename>" on these programs to get a description of what they do
-curl\		wget\		subversion\
-awk\		    java\		git\
-guile\		gimp\		inkscape\
-ffmpeg\		vim\		    nano\
-emacs\		mysql\		sqlite\
-gzip\		zip\		    make\
-head\ 		tail\		libreoffice\
-convert
+
+curl\	|	wget\	|	subversion\
+awk\	|	    java\	|	git\
+guile\	|	gimp\	|	inkscape\
+ffmpeg\	|	vim\	|	    nano\
+emacs\	|	mysql\	|	sqlite\
+gzip\	|	zip\	|	    make\
+head\ 	|	tail\	|	libreoffice\
+convert |
 
 ## Part 3: using a text editor
 
