@@ -10,5 +10,5 @@ Do the above inside of a bash script\
 Answer:\
     History\
     ![task2](./pictures/task2history.png)\
-    Script file:
-    ![task2](./pictures.task2vi.png)
+    Script file:\
+    ![task2](./pictures/task2vi.png)
