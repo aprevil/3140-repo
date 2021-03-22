@@ -1,0 +1,114 @@
+Script started on Mon 22 Mar 2021 01:48:22 AM EDT
+[aprevil@sol25 ~]$ svn co --depth empty https://github.com/aprevil/svntesting.git
+Authentication realm: <https://github.com:443> GitHub
+Password for 'aprevil': 
+
+-----------------------------------------------------------------------
+ATTENTION!  Your password for authentication realm:
+
+   <https://github.com:443> GitHub
+
+can only be stored to disk unencrypted!  You are advised to configure
+your system so that Subversion can store passwords encrypted, if
+possible.  See the documentation for details.
+
+You can avoid future appearances of this warning by setting the value
+of the 'store-plaintext-passwords' option to either 'yes' or 'no' in
+'/users1/st/aprevil/.subversion/servers'.
+-----------------------------------------------------------------------
+Store password unencrypted (yes/no)? no
+Checked out revision 1.
+[aprevil@sol25 ~]$ cd svntesting.git
+[aprevil@sol25 svntesting.git]$ svn update trunk
+Updating 'trunk':
+Authentication realm: <https://github.com:443> GitHub
+Password for 'aprevil': 
+
+-----------------------------------------------------------------------
+ATTENTION!  Your password for authentication realm:
+
+   <https://github.com:443> GitHub
+
+can only be stored to disk unencrypted!  You are advised to configure
+your system so that Subversion can store passwords encrypted, if
+possible.  See the documentation for details.
+
+You can avoid future appearances of this warning by setting the value
+of the 'store-plaintext-passwords' option to either 'yes' or 'no' in
+'/users1/st/aprevil/.subversion/servers'.
+-----------------------------------------------------------------------
+Store password unencrypted (yes/no)? no
+A    trunk
+A    trunk/trunk
+A    trunk/trunk/readme.md
+Updated to revision 1.
+[aprevil@sol25 svntesting.git]$ cd trunk
+[aprevil@sol25 trunk]$ sv[K[Kvi hello.c[K[K.js
+[?1h=[1;42r[m[m[0m[H[J[42;1H"hello.js" [New File][2;1H[1m~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~[0m[42;97H0,0-1[9CAll[1;1H[42;1H[1m-- INSERT --[0m[42;13H[K[42;97H0,1[11CAll[1;1H/[42;97H1,2[1;2H/[42;99H3[1;3Hw[42;99H4[1;4Hr[42;99H5[1;5Hi[42;99H6[1;6Ht[42;99H7[1;7Hi[42;99H8[1;8Hn[42;99H9[1;9Hg[42;99H10[1;10H[42;100H1[1;11Hh[42;100H2[1;12He[42;100H3[1;13Hl[42;100H4[1;14Hl[42;100H5[1;15Ho[42;100H6[1;16H[42;100H7[1;17Hw[42;100H8[1;18Ho[42;100H9[1;19H[1;18H[K[42;100H8[1;18H[1;17H[K[42;100H7[1;17H[42;100H6[1;16H[1;15H[K[42;100H5[1;15H[1;14H[K[42;100H4[1;14H[1;13H[K[42;100H3[1;13H[1;12H[K[42;100H2[1;12H[1;11H[K[42;100H1[1;11H[42;100H0[1;10H[1;9H[K[42;99H9 [1;9H[1;8H[K[42;99H8[1;8H[1;7H[K[42;99H7[1;7H[1;6H[K[42;99H6[1;6H[1;5H[K[42;99H5[1;5H[1;4H[K[42;99H4[1;4H[1;3H[K[42;99H3[1;3Hj[42;99H4[1;4Hu[42;99H5[1;5Hs[42;99H6[1;6Ht[42;99H7[1;7H[42;99H8[1;8Ha[42;99H9[1;9H[42;99H10[1;10Hs[42;100H1[1;11Hy[42;100H2[1;12H[1;11H[K[42;100H1[1;11Hi[42;100H2[1;12Hm[42;100H3[1;13Hp[42;100H4[1;14Hl[42;100H5[1;15He[42;100H6[1;16H[42;100H7[1;17Hp[42;100H8[1;18Hr[42;100H9[1;19Ho[42;99H20[1;20Hb[42;100H1[1;21H[1;20H[K[42;100H0[1;20Hg[42;100H1[1;21Hr[42;100H2[1;22Ha[42;100H3[1;23Hm[42;100H4[1;24H[42;100H5[1;25Ht[42;100H6[1;26Ho[42;100H7[1;27H[42;100H8[1;28Hw[42;100H9[1;29Hr[42;99H30[1;30Hi[42;100H1[1;31Hg[42;100H2[1;32Hh[42;100H3[1;33Ht[42;100H4[1;34H[42;100H5[1;35Hh[42;100H6[1;36H[1;35H[K[42;100H5[1;35H[42;100H4[1;34H[1;33H[K[42;100H3[1;33H[1;32H[K[42;100H2[1;32H[1;31H[K[42;100H1[1;31H[1;30H[K[42;100H0[1;30H[1;29H[K[42;99H29[1;29H[1;28H[K[42;100H8[1;28Hr[42;100H9[1;29Hi[42;99H30[1;30Hg[42;100H1[1;31Hh[42;100H2[1;32Ht[42;100H3[1;33H[42;100H4[1;34Hh[42;100H5[1;35He[42;100H6[1;36Hl[42;100H7[1;37Hl[42;100H8[1;38Ho[42;100H9[1;39H[42;99H40[1;40Hi[42;100H1[1;41Hn[42;100H2[1;42H[42;100H3[1;43Hj[42;100H4[1;44Ha[42;100H5[1;45Hv[42;100H6[1;46Ha[42;100H7[1;47Hs[42;100H8[1;48Hc[42;100H9[1;49Hr[42;99H50[1;50Hi[42;100H1[1;51Hp[42;100H2[1;52Ht[42;100H3[1;53H
+//[42;97H2,3 [2;3H[2;2H[K[42;99H2[2;2H[2;1H[K[42;99H1[2;1Hc[42;99H2[2;2Ho[42;99H3[2;3Hn[42;99H4[2;4Hs[42;99H5[2;5Ho[42;99H6[2;6Hl[42;99H7[2;7He[42;99H8[2;8H.[42;99H9[2;9Hl[42;99H10[2;10Ho[42;100H1[2;11Hg[42;100H2[2;12H([42;100H3[2;13H"[42;100H4[2;14HH[42;100H5[2;15He[42;100H6[2;16Hl[42;100H7[2;17Hl[42;100H8[2;18Ho[42;100H9[2;19H[42;99H20[2;20H[42;99H19[2;19H![42;99H20[2;20H"[42;100H1[2;21H)[42;100H2[2;22H;[42;100H3[2;23H[42;1H[K[2;22H[42;97H2,22[10CAll[2;22H[42;97H[K[42;1H:ew[42;3H[K[42;3H[42;2H[K[42;2Hwq"hello.js" [New] 2L, 76C written[?1l>
+[aprevil@sol25 trunk]$ svn add hello.js
+A         hello.js
+[aprevil@sol25 trunk]$ svn commit -m "hello in js program added"
+Authentication realm: <https://github.com:443> GitHub
+Password for 'aprevil': 
+
+-----------------------------------------------------------------------
+ATTENTION!  Your password for authentication realm:
+
+   <https://github.com:443> GitHub
+
+can only be stored to disk unencrypted!  You are advised to configure
+your system so that Subversion can store passwords encrypted, if
+possible.  See the documentation for details.
+
+You can avoid future appearances of this warning by setting the value
+of the 'store-plaintext-passwords' option to either 'yes' or 'no' in
+'/users1/st/aprevil/.subversion/servers'.
+-----------------------------------------------------------------------
+Store password unencrypted (yes/no)? no
+Adding         hello.js
+Transmitting file data .
+Committed revision 2.
+[aprevil@sol25 trunk]$ exit
+exit
+
+Script done on Mon 22 Mar 2021 01:52:55 AM EDT
