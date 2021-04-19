@@ -11,3 +11,4 @@
 - [x] Lab 6
 - [x] Lab 7
 - [x] Lab 8
+- [x] Lab 9
