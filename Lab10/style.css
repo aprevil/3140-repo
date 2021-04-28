@@ -10,18 +10,21 @@
     margin-left: 30%;
     margin-right: 30%;
 }
-.columns{
+.main{
+    height:50%;
+}
+/*.columns{
     width:100%;
 }
-.main{
+.order-2{
     width:75%;
     float:none;
 }
-.sidebarLeft{
+.order-1{
     width:25%;
     float:left;
-}
-.sidebarRight{
+}*/
+.order-3{
     width:25%;
     float:right;
 }
