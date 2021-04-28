@@ -1,0 +1,30 @@
+.navbar{
+    display: block;
+    margin-right: 1000;
+}
+.card{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.lol{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.main{
+    height:50%;
+}
+/*.columns{
+    width:100%;
+}
+.order-2{
+    width:75%;
+    float:none;
+}
+.order-1{
+    width:25%;
+    float:left;
+}*/
+.order-3{
+    width:25%;
+    float:right;
+}
