@@ -1,0 +1,27 @@
+.navbar{
+    display: block;
+    margin-right: 1000;
+}
+.card{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.lol{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.columns{
+    width:100%;
+}
+.main{
+    width:75%;
+    float:none;
+}
+.sidebarLeft{
+    width:25%;
+    float:left;
+}
+.sidebarRight{
+    width:25%;
+    float:right;
+}
